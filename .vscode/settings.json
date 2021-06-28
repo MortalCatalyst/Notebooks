@@ -1,4 +1,6 @@
 {
     "python.pythonPath": "C:\\Users\\sayth\\anaconda3\\envs\\WebScraping\\python.exe",
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
 }
